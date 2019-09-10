@@ -1,0 +1,12 @@
+{
+  "name": "show-scraper-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "node-html-parser": "^1.1.10"
+  }
+}
